@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673712190090",
+    "project_id": "appteologia",
+    "storage_bucket": "appteologia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673712190090:android:867dae70a389230558b373",
+        "android_client_info": {
+          "package_name": "com.mycompany.teologia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyAOdBW9yhyaDMMvUVtkO1N9zjWsQslQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
